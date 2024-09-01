@@ -19,7 +19,7 @@ Code Merger adalah aplikasi desktop yang dikembangkan dengan Flutter untuk mengg
 
 ## Instalasi
 
-1. Unduh file installer terbaru `code_merger_setup.exe` dari [halaman rilis](link_ke_halaman_rilis).
+1. Unduh file installer terbaru `code_merger_setup.exe` dari [halaman rilis](https://github.com/tgarin/code_merger_desktop/tree/main/installer).
 2. Jalankan file installer yang telah diunduh.
 3. Ikuti petunjuk instalasi di layar.
 4. Setelah instalasi selesai, Code Merger akan siap digunakan.
