@@ -44,7 +44,7 @@ Jika Anda ingin berkontribusi pada proyek ini atau menjalankannya dari sumber:
 
 1. Pastikan Anda telah menginstal [Flutter](https://flutter.dev/docs/get-started/install).
 2. Clone repositori ini: git clone https://github.com/tgarin/code_merger_desktop.git
-3. Masuk ke direktori proyek: cd code_merger
+3. Masuk ke direktori proyek: cd code_merger_desktop
 4. Jalankan `flutter pub get` untuk menginstal dependensi.
 5. Untuk menjalankan aplikasi dalam mode debug: flutter run -d windows
 ## Lisensi
